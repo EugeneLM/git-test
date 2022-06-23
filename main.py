@@ -5,5 +5,5 @@ print("first commit")
 #second commit
 print("second commit")
 
-#push commi
+#push commit
 print("push test")
